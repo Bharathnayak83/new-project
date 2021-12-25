@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Techpraghna Releases Nexus Repository</name>
-	      <url>http://13.127.22.141:8393/nexus/repository/projectrelease/</url>
+	      <url>http://13.127.22.141:8393/nexus/repository/release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Techpraghna Snapshot Nexus Repository </name>
-	      <url>http://13.127.22.141:8393/nexus/repository/projectsnapshot/</url>
+	      <url>http://13.127.22.141:8393/nexus/repository/snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
